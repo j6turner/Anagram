@@ -2,7 +2,7 @@
 Anagrammer
 ======================
 
-**Methods allow the creation of a personal telephone directory.**
+**Methods loosely translate inputted word into anagram.**
 
 ***
 
