@@ -51,8 +51,7 @@ None as of 01-06-2015.
 
 ###Authors
 
-Alex Kaufman
-J. TURNER
+Alex Kaufman & J. TURNER
 
 ###License
 
