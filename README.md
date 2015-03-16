@@ -2,7 +2,7 @@
 Anagrammer
 ======================
 
-**Methods loosely translate inputted word into anagram.**
+**Methods loosely identify anagrams.**
 
 ***
 
@@ -43,7 +43,7 @@ Then, type the following address into a web browser:
 localhost:4567/
 ```
 
-Enter a word. Enter Observe the results.
+Enter a word. Enter possible anagrams. Observe the results.
 
 ###Known Bugs
 

@@ -1,3 +1,10 @@
-<h1>Here are the answers to your anagrammer!</h1>
-<h4>Your chosen word:</h4> <%= @word1 %>
-<h4>Your anagrams:</h4> <%= @word2 %>
+<h2>Here are the answers to your anagrammer!</h2>
+<hr />
+<form>
+  <div class="form group">
+    <h4>Your chosen word:</h4> <%= @word1 %>
+    <h4>Your anagrams:</h4> <%= @word2 %>
+  </div>
+  <br />
+  <a href="/"><button class="btn btn-warning">Home</button></a>
+</form>
